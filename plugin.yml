@@ -1,0 +1,5 @@
+main: me.Lebryant.bossbar.Main
+name: Bossbar
+version: 1.0
+author: LebryantJohnson
+api-version: 1.15

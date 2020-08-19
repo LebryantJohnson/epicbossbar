@@ -1,4 +1,5 @@
-main: me.Lebryant.bossbar.Main
-name: Bossbar
-version: 1.0
-author: LebryantJohnson
+name: TemplatePlugin
+author: Maxlego08
+main: fr.maxlego08.template.Template
+version: 0.0.2.3
+commands:
